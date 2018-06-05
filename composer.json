@@ -1,0 +1,10 @@
+{
+    "name": "charleseasy/http",
+    "description": "A Http Reques Class For Php",
+    "autoload": {
+        "psr-4": {
+            "CharlesEasy\\Http\\": "src"
+        }
+    },
+    "require": {}
+}
