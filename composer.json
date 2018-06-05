@@ -1,6 +1,8 @@
 {
     "name": "charleseasy/http",
     "description": "A Http Reques Class For Php",
+    "license": "MIT",
+    "version":"1.0.0",
     "autoload": {
         "psr-4": {
             "CharlesEasy\\Http\\": "src"
