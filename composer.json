@@ -8,5 +8,6 @@
             "CharlesEasy\\Http\\": "src"
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "1.0.0"
 }
